@@ -3,4 +3,4 @@ Raycasting project.
 
 3D game based on the "Ray Casting" algorithm.
 
-Here's the video I made about this project: 
+Here's the video I made about this project: https://youtu.be/6QfMNsjn9Zg
